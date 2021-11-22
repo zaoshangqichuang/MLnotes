@@ -1,5 +1,6 @@
 # 机器学习笔记
-2021李宏毅老师机器学习课程链接：https://www.bilibili.com/video/BV1Wv411h7kN
+2021李宏毅老师机器学习课程链接：https://www.youtube.com/playlist?list=PLJV_el3uVTsMhtt7_Y6sgTHGHp1Vb2P2J  
+作业和课件链接:http://speech.ee.ntu.edu.tw/~tlkagk/courses_ML20.html
 ## 类神经网络训练不起来怎么办
 ### 1)局部最优(local minima)与鞍点(saddle point)
 ![ink-image](https://user-images.githubusercontent.com/56083834/142728141-8373f352-d983-4054-88ad-e29a03097273.png)
