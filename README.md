@@ -8,6 +8,7 @@
 2）LOSS中加入**正则项**  
 3）神经网络中加入**BN**，批次标准化
 ### [二、从分类问题到deep learning](https://github.com/zaoshangqichuang/MLnotes/blob/main/2_%E5%88%86%E7%B1%BB%E9%97%AE%E9%A2%98.md)  
-* [HW2-1:Classification](https://github.com/zaoshangqichuang/MLnotes/blob/main/HW2_classification.ipynb)  
+* [HW2-1:Classification](https://github.com/zaoshangqichuang/MLnotes/blob/main/HW2-1_classification.ipynb)  
 * [HW2-2:Hessian Matrix](https://github.com/zaoshangqichuang/MLnotes/blob/main/HW2-2HessianMatrix.ipynb)  
 ### [三、CNN](https://github.com/zaoshangqichuang/MLnotes/blob/main/3_CNN.md)
+### [三、self-attention](https://github.com/zaoshangqichuang/MLnotes/blob/main/3_self-attention.md)
